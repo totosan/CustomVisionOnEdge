@@ -1,0 +1,7 @@
+Auto
+Fahrradfahrer
+Hund
+Mensch
+Postauto
+Transporter
+Volvo V40
